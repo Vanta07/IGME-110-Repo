@@ -15,10 +15,10 @@
 - [**Jurassic Park**](https://en.wikipedia.org/wiki/Jurassic_Park)
 - [**Interstellar**](https://en.wikipedia.org/wiki/Interstellar_(film))
 - [**The Martian**](https://en.wikipedia.org/wiki/The_Martian_(film))
-- __[**Into the Spiderverse**](https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse) [**(and sequel)**](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse)
+- [**Into the Spiderverse**](https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse) [**(and sequel)**](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse)
 ## Games
-- [**Helldivers 2**]
-- [**Garry's Mod**]
-- [**Ultrakill**]
-- [**Deltarune**]
-- [**Metal Gear Rising: Revengance**]
+- [**Helldivers 2**](https://store.steampowered.com/app/553850/HELLDIVERS_2/)
+- [**Garry's Mod**](https://store.steampowered.com/app/4000/Garrys_Mod/)
+- [**Ultrakill**](https://store.steampowered.com/app/1229490/ULTRAKILL/)
+- [**Deltarune**](https://store.steampowered.com/app/1671210/DELTARUNE/)
+- [**Metal Gear Rising: Revengeance**](https://store.steampowered.com/app/235460/METAL_GEAR_RISING_REVENGEANCE/)
