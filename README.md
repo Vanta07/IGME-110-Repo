@@ -12,4 +12,4 @@
 
 [RIT](https://www.rit.edu/)
 
-![image]([image.jpg](https://i.pinimg.com/736x/e2/6e/b8/e26eb815474d1b12438272a0b99e1184.jpg))
+![image](https://i.pinimg.com/736x/e2/6e/b8/e26eb815474d1b12438272a0b99e1184.jpg)
